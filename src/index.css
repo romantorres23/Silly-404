@@ -5,3 +5,15 @@ body {
   justify-content: center;
   height: 100vh;
 }
+
+div.copy {
+  position: absolute;
+  display: block;
+  z-index: 999;
+  left: 50%;
+  transform: translateX(-50%);
+
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
