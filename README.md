@@ -8,8 +8,6 @@ Just a silly 404 page made with react. I imported a glb model with an animation.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
 - [Questions](#questions)
 - [Deployed Link](#deployed-link)
 
@@ -17,7 +15,7 @@ Just a silly 404 page made with react. I imported a glb model with an animation.
 Clone the repo and 'npm i'
 
 ## Usage
-na
+Simply for viewing pleasure
 ![Screenshot of Project](assets/images/screenshot.png)
 
 ## License
